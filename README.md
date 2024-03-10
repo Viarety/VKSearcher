@@ -10,5 +10,5 @@ Script for searching VK page by phone number
 Replace lines **4** and **5** with your data
 
 <br>&nbsp;
-**Run this script in your terminal or IDE:**
+**Run this script in your terminal or IDE**
 
