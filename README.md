@@ -7,7 +7,7 @@ Script for searching VK page by phone number
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=How+to+use:)](https://git.io/typing-svg)
 <br>&nbsp;
-Replace lines **4** and **5** with your data
+Replace lines **4** and **5** with your data in **VKS.py**
 
 <br>&nbsp;
 **Run this script in your terminal or IDE**
